@@ -1,3 +1,4 @@
+//This is simple linked list example
 public class linkedlist{
 	Node head;
    public class Node{
